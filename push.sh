@@ -1,6 +1,5 @@
 #!/bin/bash
-
-# Stop if any command fails
+G# Stop if any command fails
 set -e
 
 # Check if commit message is provided
@@ -19,4 +18,5 @@ git commit -m "$1"
 echo "🚀 Pushing to GitHub..."
 git push
 
-echo "✅ Done!"
+echo "✅ Done!" 
+i was changeing this 
