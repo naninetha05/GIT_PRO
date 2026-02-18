@@ -1,0 +1,11 @@
+devops-shell-automation/
+├── git/
+│   ├── auto_push.sh
+│   └── repo_backup.sh
+├── linux/
+│   ├── user_audit.sh
+│   └── disk_alert.sh
+├── system/
+│   ├── service_check.sh
+│   └── cleanup_logs.sh
+├── README.md
